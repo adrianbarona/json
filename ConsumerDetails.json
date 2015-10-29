@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "c_NAME": "John Doe",
+            "c_ADDR": {
+                "country": "United States of America",
+                "street": "777 American Express Ln",
+                "city": "North Pole,",
+                "state": "Earth",
+                "zip": "00000"
+            },
+            "c_PMT_DUE": "12/12/15",
+            "c_PMT_DT": "12/11/15",
+            "c_ID": "C0234567",
+            "c_ACT_NBR": "01928876"
+        },
+        {
+            "c_NAME": "Adrian Barona",
+            "c_ADDR": {
+                "country": "United States of America",
+                "street": "777 American Express Ter",
+                "city": "North Pole,",
+                "state": "Earth",
+                "zip": "00000"
+            },
+            "c_PMT_DUE": "12/10/16",
+            "c_PMT_DT": "12/09/16",
+            "c_ID": "C1234567",
+            "c_ACT_NBR": "11928876"
+        },
+        {
+            "c_NAME": "Jane Doe",
+            "c_ADDR": {
+                "country": "United States of America",
+                "street": "777 American Express Rd",
+                "city": "North Pole,",
+                "state": "Earth",
+                "zip": "00000"
+            },
+            "c_PMT_DUE": "10/23/14",
+            "c_PMT_DT": "12/20/14",
+            "c_ID": "C2234567",
+            "c_ACT_NBR": "21928876"
+        },
+        {
+            "c_NAME": "John Dalmation",
+            "c_ADDR": {
+                "country": "United States of America",
+                "street": "123 Desire Rd",
+                "city": "South Pole,",
+                "state": "Earth",
+                "zip": "99999"
+            },
+            "c_PMT_DUE": "12/12/15",
+            "c_PMT_DT": "12/11/15",
+            "c_ID": "C3234567",
+            "c_ACT_NBR": "31928876"
+        },
+        {
+            "c_NAME": "Daron Malakian",
+            "c_ADDR": {
+                "country": "United States of America",
+                "street": "123 Desire Ter",
+                "city": "South Pole,",
+                "state": "Earth",
+                "zip": "99999"
+            },
+            "c_PMT_DUE": "01/12/15",
+            "c_PMT_DT": "01/01/15",
+            "c_ID": "C4234567",
+            "c_ACT_NBR": "41928876"
+        }
+    ]
+}
